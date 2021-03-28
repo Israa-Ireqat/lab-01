@@ -1,0 +1,43 @@
+#div3 {
+    float: left;
+    position: relative;
+    bottom: 600px;
+    left: 200px;
+}
+#div4 {
+    float: right;
+    position: relative;
+    bottom: 600px;
+    left: 192px;
+}
+#div5 {
+    float: right;
+    position: relative;
+    bottom: 600px;
+    right: 378px;
+}
+#div6 {
+    float: right;
+    position: relative;
+    bottom: 600px;
+    left: 2px;
+}
+#div7 {
+    float: right;
+    position: relative;
+    bottom: 600px;
+    left: 382px;
+}
+#div8 {
+    float: right;
+    position: relative;
+    bottom: 600px;
+    left: 762px;
+}
+#div9 {
+    float: right;
+    position: relative;
+    bottom: 600px;
+    left: 192px;
+}
+
