@@ -27,7 +27,7 @@
     background-color: rgba(93, 134, 136, 0.849);
 }
 }
-@media(max-width: 767px) and (min-width: 480px){
+@media(max-width: 786px) and (min-width: 480px){
     #div1 {
         background-color: rgba(235, 130, 251, 0.849);
     }
