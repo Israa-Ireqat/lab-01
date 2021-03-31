@@ -1,3 +1,4 @@
+
 #div1 {
     box-sizing: border-box;
     height: 100px;
@@ -102,4 +103,7 @@
     border-width: 1px;
     line-height: 150px;
    
+}
+
+@media (min-width:480px)and (max-width:767px){
 }
